@@ -1,0 +1,119 @@
+p{
+    font-size: 1.1em;
+}
+
+#p1{
+    background-color: #6dff7a;
+    padding: 20px;
+    margin: 0px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: rgb(0, 99, 124);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#div1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 2px dotted grey;
+}
+
+p{
+    width: 600px;
+}
+
+#p2{
+    background-color: #ff4949;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.6em;
+    color: rgb(121, 0, 0);
+}
+
+#p3{
+    background-color: #4dffff;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.8em;
+    color: black;
+}
+
+#div0{
+    margin: 20px;
+    padding: 50px;
+    border: 2px solid blue;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(43, 1, 158);
+    color: azure;
+    width: 800px;
+    height: 600px;
+}
+
+#div2{
+    margin: 25px;
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(234, 255, 255);
+    color: rgb(75, 75, 75);   
+    font-size: 1.1em;
+    width: 400px;
+    height: 450px;
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1.6em;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    color: black;
+    font-weight: bold; 
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    text-decoration: none;
+    height: 38px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#login_button{
+    padding: 5px;
+    text-decoration: none;
+    display: flex;
+    color: white;
+    background-color: rgb(43, 1, 158);
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    margin-bottom: 0px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
